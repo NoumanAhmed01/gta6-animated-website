@@ -1,16 +1,50 @@
-# React + Vite
+# 🎮 GTA 6 Animated Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, animated GTA 6–inspired landing page built with React and GSAP, featuring smooth intro animations, SVG masking, and interactive parallax effects.
 
-Currently, two official plugins are available:
+This project was built for practice and learning advanced frontend animations, inspired by tutorials from Sherian Coding School.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Live Demo
+(https://gta6-animated-website.vercel.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (Vite)
+- GSAP (GreenSock Animation Platform)
+- Tailwind CSS
+- SVG Mask Animation
+- JavaScript (ES6+)
+
+---
+
+## ✨ Features
+
+- Intro screen with SVG mask animation
+- Smooth page reveal transition
+- Layered parallax effect on mouse movement
+- Animated hero section
+- Responsive layout
+- Clean UI with modern styling
+
+---
+
+## 🎯 Learning Goals
+
+This project helped me understand:
+
+- How to use GSAP with React
+- Creating timelines and sequences
+- Managing animations with state
+- SVG masking techniques
+- Building interactive UI effects
+- Structuring animation-based projects
+
+---
+
+## 📂 Project Setup
+
+### 1. Clone the Repository
